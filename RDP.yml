@@ -1,4 +1,4 @@
-name: Zaky
+name: progeneration
 
 on: workflow_dispatch
 
